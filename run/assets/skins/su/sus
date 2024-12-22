@@ -1,0 +1,1402 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+<meta charset="UTF-8"/>
+<title>404 Not Found | Minecraft Education</title>
+
+<meta name="description" content="The page you are looking for is not available. "/>
+<meta name="template" content="edu-base-template"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" type="image/x-icon" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/new-favicon.ico"/>
+<link rel="icon" type="image/x-icon" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/new-favicon.ico"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/newimage-favicon-16x16.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/newimage-favicon-32x32.png"/>
+
+<link rel="apple-touch-icon" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/new-apple-icon.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/new-apple-icon-76x76.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/new-apple-icon-120x120.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/favicon/new-apple-icon-152x152.png"/>
+
+
+ 
+<meta property="og:image" content="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/Mincraft-edu-ogi.png"/>
+<meta property="og:title" content="404 Not Found"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://education.minecraft.net/en-us/error/404"/>
+<meta property="og:site_name" content="education.minecraft.net"/>
+<meta property="og:description" content="The page you are looking for is not available. "/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@Minecraft Education"/>
+<meta name="twitter:title" content="404 Not Found"/>
+<meta name="twitter:description" content="The page you are looking for is not available. "/>
+<meta name="twitter:image" content="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/Mincraft-edu-ogi.png"/>
+<meta name="twitter:url" content="https://education.minecraft.net/en-us/error/404"/>
+
+
+
+ <div data-cmp-is="mode" data-run-mode="false"></div> 
+         
+
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/fi-fi/error/404" hreflang="fi-fi"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/nb-no/error/404" hreflang="nb-no"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/de-de/error/404" hreflang="de-de"/>
+    
+        
+            <link rel="alternate" href="https://education.minecraft.net/en-us/error/404" hreflang="x-default"/>
+        
+        <link rel="alternate" href="https://education.minecraft.net/en-us/error/404" hreflang="en-us"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/zh-hant/error/404" hreflang="zh-hant"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/ko-kr/error/404" hreflang="ko-kr"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/pt-br/error/404" hreflang="pt-br"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/zh-hans/error/404" hreflang="zh-hans"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/es-es/error/404" hreflang="es-es"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/es-mx/error/404" hreflang="es-mx"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/fr-ca/error/404" hreflang="fr-ca"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/it-it/error/404" hreflang="it-it"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/pl-pl/error/404" hreflang="pl-pl"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/ru-ru/error/404" hreflang="ru-ru"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/nl-nl/error/404" hreflang="nl-nl"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/pt-pt/error/404" hreflang="pt-pt"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/zh_TW/error/404" hreflang="zh_TW"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/sv-se/error/404" hreflang="sv-se"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/da-dk/error/404" hreflang="da-dk"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/tr-tr/error/404" hreflang="tr-tr"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/zh_CN/error/404" hreflang="zh_CN"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/fr-fr/error/404" hreflang="fr-fr"/>
+    
+        
+        <link rel="alternate" href="https://education.minecraft.net/ja-jp/error/404" hreflang="ja-jp"/>
+    
+    <link rel="alternate" hreflang="x-default" href="https://education.minecraft.net/en-us/error/404"/>
+    <link rel="canonical" href="https://education.minecraft.net/en-us/error/404"/>
+
+
+
+
+    <meta name="visitor-country-code" content="CN"/>
+
+
+<link rel="preload" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/scripts/at-minecraft240.js" as="script"/>
+<script src="https://assets.adobedtm.com/launch-EN9b2786468b2d40aea1ed1806bbb9143d.min.js" async></script>
+<script src="https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js"></script>
+<script>
+    (function () {
+        const PRIVACY_ORIGIN = 'https://minecraftprivacy.microsoft.com';
+        const iFrame = document.createElement('iframe');
+        iFrame.style.width = '0';
+        iFrame.style.height = '0';
+        iFrame.style.position = 'absolute';
+        iFrame.style.border = 'none';
+        iFrame.ariaLabel = 'Minecraft privacy iframe';
+        iFrame.src = PRIVACY_ORIGIN + '/iframe.html';
+        let messageEventListener;
+        window.optOutPromise = new Promise((resolve, reject) => {
+            messageEventListener = (event) => {
+                if (event.origin === PRIVACY_ORIGIN) {
+                    const optOutEventData = event.data?.['3PAdsOptOut'];
+                    if (typeof optOutEventData !== 'undefined') {
+                        resolve(optOutEventData === '1');
+                    }
+                    resolve(false);
+                    removeEventListener('message', messageEventListener);
+                    iFrame.remove();
+                };
+            };
+        });
+        addEventListener('message', messageEventListener);
+        document.body.appendChild(iFrame);
+        var appendScript = function (categoryPreferences) {
+            const url = '/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/scripts/at-minecraft240.js';
+            window.optOutPromise.then(userHasOptedOut => {
+                if (userHasOptedOut === false &&
+                    !navigator.globalPrivacyControl &&
+                    categoryPreferences.Advertising &&
+                    categoryPreferences.Analytics &&
+                    categoryPreferences.Required &&
+                    categoryPreferences.SocialMedia &&
+                    document.querySelector('script[src="' + url + '"]') === null) {
+                    const analyticsScript = document.createElement('script');
+                    analyticsScript.type = "text/javascript";
+                    analyticsScript.src = url;
+                    analyticsScript.async = true;
+                    document.head.appendChild(analyticsScript);
+                }
+            });
+        };
+        var initAdobeTarget = function () {
+            if (window.siteConsent) {
+                appendScript(siteConsent.getConsent());
+            } else {
+                WcpConsent.onInitCallback(function (categoryPreferences) {
+                    appendScript(categoryPreferences);
+                });
+            }
+        };
+
+        //Initial check
+        initAdobeTarget();
+
+        //Add event listener
+        window.addEventListener('consentChanged', initAdobeTarget);
+    })();
+</script>
+
+
+
+
+
+
+    
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-login.min.1030520241204111445200050782201733378894829.js"></script>
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-base.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-dependencies.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-footer-redesign.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-header.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-site.min.1030520241204111445200050782201733378894829.css" type="text/css">
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+    
+    
+
+
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"true","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-506898ca-364b-4081-9c0a-d892ac537597","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="YD68L-YHDZF-PVGHZ-LX2WV-DJPT2",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"YD68L-YHDZF-PVGHZ-LX2WV-DJPT2";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="true"=="true"?1:0,t="",a="35fnuyqxzirquz2unaya-f-fbc667267-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1053461","ak.ai":parseInt("649538",10),"ak.ol":"0","ak.cr":36,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"112ddc12","ak.r":14916,"ak.a2":n,"ak.m":"dscr","ak.n":"ff","ak.bpcip":"223.74.218.0","ak.cport":37994,"ak.gh":"23.202.35.21","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1733584944","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==N63jZUsSW5tFYh58aalAwA4XJU3uvHhvZFWUu4E+2l9i/upuYsXmSri2nMIAMXE/tllYv1XzOV2B84gyS2x4BRaEFWoalvnjt0Z+aJUwaLEyNJ/+muo1ivcT1FhFdWUV8PM/CKnjtqxXYXkc1PEXT4aUVEHoiBUUc7LShgArT9cciy7pjLa+2DclZr+metZBF3SQ20iyOt4LpnZ9lRXWtJznLOLGtSV86WgDbzpmiwRZYA+0IP1xxKI6v/aPXBMkJBMwsvNh6LLqD6oh5zQmmedzoeujJDcBkMH5y9Cyp0Hv+DkhIar8xhjxvJO2rHuRA9iAYnwVgCKdxSPxkEaIylkbyUKNzM/A/wE4CYcdWJCSJ2IgfXtriMJin3wuOVszA3XU7PVzqtXPN62LbFraF3LGW1j2QBHVHB4dmtrxuw4=","ak.pv":"100","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+    <body class="page basicpage" id="page-e3cb962e84">
+        
+        
+        
+            
+
+
+
+
+            
+
+
+
+            <div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12"><div id="experiencefragment-b974eb4bfc" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    
+    
+    <div id="container-72837d9e69" class="cmp-container">
+        
+        <div class="edu-header">
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.0.min.js" integrity="sha512-Pa4Jto+LuCGBHy2/POQEbTh0reuoiEXQWXGn8S7aRlhcwpVkO8+4uoZVSOqUjdCsE+77oygfu2Tl+7qGHGIWsw==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha512-5WvZa4N7Jq3TVNCp4rjcBMlc6pT3lZ7gVxjtI6IkKW+uItSa+rFgtFljvZnCxQGj8SUX5DHraKE6Mn/4smK1Cg==" crossorigin="anonymous"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/bootstrap/4.3.1/bootstrap.min.js" integrity="sha512-Ah5hWYPzDsVHf9i2EejFBFrG2ZAPmpu4ZJtW4MfSgpZacn+M9QHDt+Hd/wL1tEkk1UgbzqepJr6KnhZjFKB+0A==" crossorigin="anonymous"></script>
+
+<div id="cookie-banner"></div>
+<header>
+   <a class="mc-skip-to-main x-hidden-focus" tabindex="0" href='#main-content' id="skip-content">Skip to main content</a>
+   
+      <!-- Utility Message Bar -->
+      
+      
+      <div class="header-container-menu-desktop">
+         
+         <div data-aem-item="Global Navigation" class="header-top-bar institutional-color-background">
+            <div class="flex-c-m h-full">
+               <div class="header-right-top-bar flex-w h-full">
+                  <form id="header-searchForm" role="search" method="get" class="searchForm" action="/en-us/search">
+                     <input type="text" name="search" autocomplete="off" class="form-control header-TextBox fs-15 n-font grey-color institutional-fade-bgColor" id="top_search" aria-label="Search" aria-describedby="inputSuccess2Status" value="" placeholder="Search for lessons, trainings, and articles"/>
+                     <input type="submit" class="button button-secondary flexChildTwo" value="Search" title="Search" data-bi-id="n1c1c1c2m1r1a1"/>
+                     <span class="form-clear d-none" tabindex="0" title="Close Search" aria-label="Close Search" role="button"></span>
+                  </form>
+                  
+                     <a data-aem-contentname="Support" href="https://aka.ms/meesupport" aria-label="Support for Minecraft Education" class="flex-c-m trans-04 fs-15 lh-18 nb-font white">
+                        Support
+                     </a>
+                  
+                     <a data-aem-contentname="Blog" href="/en-us/blog" aria-label="Blog for Minecraft Education" class="flex-c-m trans-04 fs-15 lh-18 nb-font white">
+                        Blog
+                     </a>
+                  
+                  
+                  <div class="signedin-wrapper">
+                     <button class="signedin-menu float-right green-background" style="display:none" type="button" aria-expanded="false" id="edu-header-signed-in-menu">
+                        
+                        <div class="header-signin-info" aria-label="Profile Details" data-aem-contentname="Profile Details">
+                           
+                           <svg class="svg-profile" width="35" height="40" viewBox="0 0 560 645" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                              <g>
+                                 <clipPath id="hexagonal-mask">
+                                    <polygon points="270,0 0,160 0,485 270,645 560,485 560,160"/>
+                                 </clipPath>
+                              </g>
+                              <image clip-path="url(#hexagonal-mask)" x="0" y="0" class="prof-img" width="115%" xlink:href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/hoc/hexagon-blue.svg"/>
+                           </svg>
+                           <span><span class="user-name"></span></span>
+                           </span>
+                           <svg xmlns="http://www.w3.org/2000/svg" class="drop-arrow" width="18" height="8.138" viewBox="0 0 18 8.138">
+                              <path fill="none" stroke="#fff" stroke-width="2px" d="M177.651 41.17l-8.414 6.094-8.414-6.094" transform="rotate(180 89.119 24.249)"/>
+                           </svg>
+                        </div>
+                     </button>
+                     <div class="dropdown-profile-menu green-background">
+                        
+                           <a href="/en-us/login/my-classroom" role="link" aria-label="MY classroom" data-aem-contentname="MY CLASSROOM">MY CLASSROOM</a>
+                        
+                           <a href="/en-us/login/view-profile" role="link" aria-label="My Profile" data-aem-contentname="My Profile">My Profile</a>
+                        
+                           <a href="/en-us/login/my-resources" role="link" aria-label="My Resources" data-aem-contentname="My Resources">My Resources</a>
+                        
+                        <a class="edu-logout-button" href="#" role="link" aria-label="SIGN OUT" data-aem-contentname="SIGN OUT">SIGN OUT</a>
+                     </div>
+                  </div>
+                  
+                  <a data-aem-contentname="Sign In" href="/api/edu/login" style="display:none" class="signin-icon-link flex-c-m trans-04 fs-15 lh-18 nb-font white">
+                     Sign In
+                     <span>
+                        <div class="header-UserIcon"></div>
+                     </span>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div data-aem-item="Primary Navigation" class="header-wrap-menu-desktop white-background">
+            <nav class="header-limiter-menu-desktop container">
+               
+               <div class="col-md-4 header-LogoSection p-0">
+                  <a data-aem-contentname="Minecraft Logo" href="/en-us" class="header-EducationLogo" aria-label="Minecraft Education">
+                     
+                        <img src="/content/dam/education-edition/logos/education-minecraft-logo.png" alt="Minecraft Education logo" aria-hidden="true"/>
+                     
+                     
+                  </a>
+               </div>
+               
+               <div class="col-md-5 header-MegaMenu p-0">
+                  <div class="header-MenuDesktop">
+                     <ul class="header-MainMenu">
+                        <li class="explore-dropdown flyout-list-item">
+                           <span id="header-MenuExplore" role="button" tabindex="0" aria-label="how it works" class="fs-16 nb-font lh-20 grey-color text-center text-uppercase" data-aem-contentname="how it works">how it works
+                              <img src="/content/dam/education-edition/resources/images/edu-header/down-arrow.svg" class="explore-img" alt="down-arrow" aria-hidden="true"/>
+                           </span>
+                           <div class="header-SubMenu white-background">
+                              <div class="header-SubmenuContent">
+                                 <div class="col-md-4 max-w-30 col-1-menu float-lg-left  discover-hover">
+                                    <h2 class="header-SubmenuHeading-1 fs-30 t-font lh-10 text-left">
+                                       
+                                       <span class="grey-color">Get Started</span>
+                                    </h2>
+                                    <ul>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Impact" href="/en-us/discover/impact" aria-label="Impact">Impact</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Download" href="/en-us/get-started/download" aria-label="download Minecraft Education">Download</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="How to Buy" href="/en-us/licensing" aria-label="How to Buy Minecraft Education">How to Buy</a>
+                                          </li>
+                                       
+                                    </ul>
+                                 </div>
+                                 <div class="col-md-4 max-w-30 col-2-menu float-lg-left left-border getstart-hover">
+                                    <h2 class="header-SubmenuHeading-1 fs-30 t-font lh-10 text-left">
+                                          <span class="grey-color">Audiences</span>
+                                       </h2>
+                                    <ul>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="School Leaders" href="/en-us/get-started/school-leaders" aria-label="School Leaders on Minecraft Education">School Leaders</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Educators" href="/en-us/get-started/educators" aria-label="educators on Minecraft Education">Educators</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="IT Admins" href="/en-us/get-started/it-admins" aria-label="IT Admins for Minecraft Education">IT Admins</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Parents" href="/en-us/get-started/parents" aria-label="parents on Minecraft Education">Parents</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Camps and Clubs" href="/en-us/get-started/camps-and-clubs" aria-label="camps and clubs for Minecraft Education">Camps and Clubs</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Partners" href="/en-us/get-started/partners" aria-label="Partners">Partners</a>
+                                          </li>
+                                       
+                                    </ul>
+                                 </div>
+                                 <div class="col-md-4 col-3-menu max-w-40 getstart-fade-bgColor float-lg-left p-0 header-MenuBlock">
+                                    <div class="header-InnerContent">
+                                       <div class="col-md-6 float-lg-left">
+                                          <div class="header-ExploreImage-block">
+                                             <img src="/content/dam/education-edition/icons/MEE-icon-header-v1.png" alt=""/>
+                                          </div>
+                                       </div>
+                                       <div class="col-md-6 float-lg-left">
+                                          <h2 class="header-SubmenuHeading-2 fs-14 nb-font text-left grey-color">
+                                             NOW AVAILABLE FOR  MOBILE
+                                          </h2>
+                                          <a role="link" data-aem-contentname="Download" href="/en-us/get-started/download" class="btn edu-button red" aria-label="Download Minecraft Education">
+                                             <span>Download</span>
+                                             <span class="line"></span>
+                                          </a>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </li>
+                        <li class="teach-dropdown flyout-list-item">
+                           <span id="header-MenuTeach" role="button" tabindex="0" aria-label="Teach with Minecraft" class="fs-16 nb-font lh-20 grey-color text-center text-uppercase" data-aem-contentname="Teach with Minecraft">Teach with Minecraft
+                              <img src="/content/dam/education-edition/resources/images/edu-header/down-arrow.svg" class="teach-img" alt="down-arrow" aria-hidden="true"/>
+                           </span>
+                           <div class="header-SubMenu white-background">
+                              <div class="header-SubmenuContent">
+                                 <div class="col-md-4 max-w-30 col-1-menu float-lg-left resource-hover">
+                                    <h2 class="header-SubmenuHeading-1 fs-30 t-font lh-10 text-left">
+                                       
+                                          <span class="grey-color">Resources</span>
+                                    </h2>
+                                    <ul>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Lesson Library" href="/en-us/resources/explore-lessons" aria-label="explore lessons for Minecraft Education">Lesson Library</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Build Challenges" href="/en-us/resources/classroom-build-challenge" aria-label="Build Challenges">Build Challenges</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="AI" href="/en-us/discover/ai" aria-label="AI on Minecraft Education">AI</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Cyber" href="/en-us/discover/cyber-and-digital-safety" aria-label="Cyber">Cyber</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Computer Science" href="/en-us/resources/computer-science" aria-label="Computer Science">Computer Science</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Esports" href="/en-us/resources/esports" aria-label="esports on Minecraft Education">Esports</a>
+                                          </li>
+                                       
+                                    </ul>
+                                 </div>
+                                 <div class="col-md-4 max-w-30 col-2-menu float-lg-left left-border connect-hover">
+                                    <h2 class="header-SubmenuHeading-1 fs-30 t-font lh-10 text-left">
+                                       
+                                          <span class="grey-color">Professional Learning</span>
+                                    </h2>
+                                    <ul>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Get Trained" href="/en-us/resources/get-trained" aria-label="get trained on Minecraft Education">Get Trained</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Events" href="https://aka.ms/meeevents" aria-label="events for Minecraft Education">Events</a>
+                                          </li>
+                                       
+                                          <li><a class="fs-20 nb-font lh-15 text-left grey-color" data-aem-contentname="Community" href="/en-us/community" aria-label="Community for Minecraft Education">Community</a>
+                                          </li>
+                                       
+                                    </ul>
+                                 </div>
+                                 <div class="col-md-4 col-3-menu max-w-40 connect-fade-bgColor float-lg-left p-0 header-MenuBlock">
+                                    <div class="header-InnerContent">
+                                       <div class="col-md-6 float-lg-left">
+                                          <h2 class="header-SubmenuHeading-2 fs-14 nb-font text-left grey-color">
+                                             Connect in the Teacher&#39;s Lounge
+                                          </h2>
+                                          <a role="link" data-aem-contentname="Join our Community" href="https://aka.ms/mcteacherslounge" class="btn edu-button orange" aria-label="Join our Community Hub for Minecraft Education">
+                                             <span class="">Join our Community</span>
+                                             <span class="line"></span>
+                                          </a>
+                                       </div>
+                                       <div class="col-md-6 float-lg-left">
+                                          <div class="header-TeachImage-block">
+                                             <img src="/content/dam/education-edition/icons/Apple-Macbook-Space-Grey.png" alt=""/>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-1 header-StickyIcons">
+                  <div class="header-sticky-SearchIcon">
+                     <div id="Exp-serach" class="header-ExpandSearch">
+                        <form role="search" method="get" class="searchForm" action="/en-us/search">
+                           <input class="header-TextBox fs-15 n-font grey-color institutional-fade-bgColor header-ExpandInput" placeholder="Search your keyword" type="text" value="" aria-label="Search" data-action="/en-us/search" name="search" id="sticky_search" autocomplete="off"/>
+                           <input class="header-ExpandBtn" type="submit" value="" title="Search"/>
+                           <div class="header-ExpandIcon">
+                              <span class="form-control-feedback">
+                                 <img src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/edu-header/search-icon.svg" class="header-SearchIcon-mobile" alt="Search" title="Search" aria-hidden="true"/>
+                              </span>
+                           </div>
+                           <span class="form-clear d-none" tabindex="0" aria-label="clear search" role="button"></span>
+                        </form>
+                     </div>
+                  </div>
+                  <div class="signin-icon-link header-sticky-UserIcon">
+                     <a data-aem-contentname="Sign In" href="/api/edu/login" style="display:none">
+                     <img src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/edu-header/signin-icon.svg" alt="Sign In logo"/>
+                     </a>
+                  </div>
+               </div>
+               
+               <div class="col-md-3 header-QuickstartCta text-right">
+                  <a role="link" data-aem-contentname="Download Minecraft" href="/en-us/get-started/download" tabindex="0" aria-label="Download Minecraft Education" class="edu-button red qs-btn">
+                     <span class="button-text-qs">Download Minecraft</span>
+                     <svg xmlns="http://www.w3.org/2000/svg" width="23.871" height="27.563" viewBox="0 0 23.871 27.563">
+                        <path id="Path_2211" d="M105 632.7v-13.777l11.935-6.891 11.935 6.891V632.7l-11.935 6.9z" data-name="Path 2211" transform="translate(-105 -612.032)" fill="#fff"/>
+                        <path id="Path_2213" fill="#CA3636" d="M 13.383 7.795 L 11.708 9.008 L 14.381 12.699 L 6.065 12.699 L 6.065 14.768 L 14.381 14.768 L 11.708 18.458 L 13.383 19.671 L 17.683 13.733 Z" data-name="Path 2213"/>
+                     </svg>
+                     <span class="line"></span>
+                  </a>
+               </div>
+            </nav>
+         </div>
+      </div>
+      
+      <div class="header-MenuMobile-wrapper white-background">
+         
+         <div class="header-IconWrapper flex-w flex-r-m">
+            <div class="header-IconItem cl2 hov-cl1 trans-04 header-modal-SearchIcon-show" role="button" aria-label="search" title="search" tabindex="0">
+               <img src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/edu-header/search-icon.svg" class="header-SearchIcon-mobile" alt="Search" title="Search" aria-hidden="true"/>
+            </div>
+         </div>
+         
+         <div class="header-EduLogo-mobile">
+            <a data-aem-contentname="Minecraft" href="/en-us"><img src="/content/dam/education-edition/logos/education-minecraft-logo.png" alt="IMG-LOGO"/></a>
+         </div>
+         
+         <div class="header-MenuBtn-show header-hamburger header-hamburger-squeeze" role="button" title="hamburger" aria-label="hamburger" tabindex="0" aria-expanded="false">
+            <span class="header-hamburger-box">
+               <span class="header-HamnurgerInner"></span>
+            </span>
+         </div>
+      </div>
+      
+      <div class="header-MenuMobile white-background">
+         <ul class="header-TopBar-Mobile white-background light">
+            
+            <li class="dropbtn" id="showprofilemenu">
+               <a href="#" role="link" aria-label="Profile Details" data-aem-contentname="Profile Details">
+                  
+                  <svg title="Profile Details" class="svg-profile" width="35" height="40" viewBox="0 0 560 645" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" version="1.1">
+                     <g>
+                        <clipPath id="hexagonal-mask-mobile">
+                           <polygon points="270,0 0,160 0,485 270,645 560,485 560,160">
+                        </clipPath>
+                     </g>
+                     <image clip-path="url(#hexagonal-mask-mobile)" x="0" y="0" class="prof-img" width="115%" xlink:href="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/hoc/hexagon-blue.svg"/>
+                  </svg>
+               </a>
+            </li>
+            
+            <li>
+               <a href="/api/edu/login" class="dis-block w-50 mx-auto pr-3 trans-04">
+                  <div class="header-UserIcon-Mobile"></div>
+               </a>
+            </li>
+            <li>
+               <a href="https://educommunity.minecraft.net/hc/en-us" class="dis-block w-50 mx-auto pr-3 trans-04">
+                  <div class="header-SupportIcon"></div>
+               </a>
+            </li>
+            <li>
+               <a href="/en-us/get-started/download" class="dis-block w-50 mx-auto pr-3 trans-04">
+                  <div class="header-BlogIcon"></div>
+               </a>
+            </li>
+         </ul>
+         <ul class="white-background text-uppercase mobilemenu">
+            <div class=" default-menu header-MainMenu-block">
+               <li>
+                  <a data-aem-contentname="how it works" href="#" class="institutional-color fs-24 lh-13 nb-font">how it works</a>
+               </li>
+               <li class="header-MenuItem">
+                  
+                  
+                  <button aria-expanded="false">
+                     <span class="grey-color t-font header-subheading-text">Get Started</span>
+                     <span class="header-DownArrow"></span>
+                  </button>
+                  <ul class="header-SubMenu-mobile">
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Impact" href="/en-us/discover/impact" aria-label="Impact">Impact</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Download" href="/en-us/get-started/download" aria-label="download Minecraft Education">Download</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="How to Buy" href="/en-us/licensing" aria-label="How to Buy Minecraft Education">How to Buy</a></li>
+                     
+                  </ul>
+               </li>
+               <li class="header-MenuItem">
+                  
+                  
+                  <button aria-expanded="false">
+                     <span class="grey-color t-font header-subheading-text">Audiences</span>
+                     <span class="header-DownArrow"></span>
+                  </button>
+                  <ul class="header-SubMenu-mobile">
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="School Leaders" href="/en-us/get-started/school-leaders" aria-label="School Leaders on Minecraft Education">School Leaders</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Educators" href="/en-us/get-started/educators" aria-label="educators on Minecraft Education">Educators</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="IT Admins" href="/en-us/get-started/it-admins" aria-label="IT Admins for Minecraft Education">IT Admins</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Parents" href="/en-us/get-started/parents" aria-label="parents on Minecraft Education">Parents</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Camps and Clubs" href="/en-us/get-started/camps-and-clubs" aria-label="camps and clubs for Minecraft Education">Camps and Clubs</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Partners" href="/en-us/get-started/partners" aria-label="Partners">Partners</a></li>
+                     
+                  </ul>
+               </li>
+               <li>
+                  <a href="#" class="institutional-color fs-24 lh-13 nb-font">Teach with Minecraft</a>
+               </li>
+               <li class="header-MenuItem">
+                  
+                  
+                  <button aria-expanded="false">
+                     <span class="grey-color t-font header-subheading-text">Resources</span>
+                     <span class="header-DownArrow"></span>
+                  </button>
+                  <ul class="header-SubMenu-mobile">
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Lesson Library" href="/en-us/resources/explore-lessons" aria-label="explore lessons for Minecraft Education">Lesson Library</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Build Challenges" href="/en-us/resources/classroom-build-challenge" aria-label="Build Challenges">Build Challenges</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="AI" href="/en-us/discover/ai" aria-label="AI on Minecraft Education">AI</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Cyber" href="/en-us/discover/cyber-and-digital-safety" aria-label="Cyber">Cyber</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Computer Science" href="/en-us/resources/computer-science" aria-label="Computer Science">Computer Science</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Esports" href="/en-us/resources/esports" aria-label="esports on Minecraft Education">Esports</a></li>
+                     
+                  </ul>
+               </li>
+               <li class="header-MenuItem">
+                  
+                  
+                  <button aria-expanded="false">
+                     <span class="grey-color t-font header-subheading-text">Professional Learning</span>
+                     <span class="header-DownArrow"></span>
+                  </button>
+                  <ul class="header-SubMenu-mobile">
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Get Trained" href="/en-us/resources/get-trained" aria-label="get trained on Minecraft Education">Get Trained</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Events" href="https://aka.ms/meeevents" aria-label="events for Minecraft Education">Events</a></li>
+                     
+                        <li><a class="fs-16 nb-font text-left grey-color" data-aem-contentname="Community" href="/en-us/community" aria-label="Community for Minecraft Education">Community</a></li>
+                     
+                  </ul>
+               </li>
+               <div class="header-QuickstartCta-Mobile">
+                  <a role="link" data-aem-contentname="Download Minecraft" href="/en-us/get-started/download" tabindex="0" aria-label="Download Minecraft Education" class="edu-button red qs-btn">
+                     <span class="button-text-qs">Download Minecraft</span>
+                     <svg xmlns="http://www.w3.org/2000/svg" width="23.871" height="27.563" viewBox="0 0 23.871 27.563">
+                        <path id="Path_2212" d="M105 632.7v-13.777l11.935-6.891 11.935 6.891V632.7l-11.935 6.9z" data-name="Path 2212" transform="translate(-105 -612.032)" fill="#fff"/>
+                        <path id="Path_2214" fill="#CA3636" d="M 13.383 7.795 L 11.708 9.008 L 14.381 12.699 L 6.065 12.699 L 6.065 14.768 L 14.381 14.768 L 11.708 18.458 L 13.383 19.671 L 17.683 13.733 Z" data-name="Path 2214"/>
+                     </svg>
+                     <span class="line"></span>
+                  </a>
+               </div>
+            </div>
+            <div class="profile-dropdown-mobile header-MainMenu-block  white-background text-uppercase" id="mobilemenu" style="display: none;">
+               <li class="green-background profile-title">
+                  <a href="#" class="fs-24 lh-13 nb-font white">
+                     <span><span class="user-name"></span>
+                     </span>
+                  </a>
+               </li>
+               
+                  <li>
+                     <a href="/en-us/login/my-classroom" role="link" aria-label="MY classroom" data-aem-contentname="MY CLASSROOM" class="grey-color fs-20 lh-16 t-font">MY CLASSROOM</a>
+                  </li>
+               
+                  <li>
+                     <a href="/en-us/login/view-profile" role="link" aria-label="My Profile" data-aem-contentname="My Profile" class="grey-color fs-20 lh-16 t-font">My Profile</a>
+                  </li>
+               
+                  <li>
+                     <a href="/en-us/login/my-resources" role="link" aria-label="My Resources" data-aem-contentname="My Resources" class="grey-color fs-20 lh-16 t-font">My Resources</a>
+                  </li>
+               
+               <li>
+                  <a class="grey-color fs-20 lh-16 t-font" href="#" role="link" aria-label="SIGN OUT" data-aem-contentname="SIGN OUT">SIGN OUT</a>
+               </li>
+            </div>
+         </ul>
+      </div>
+      
+      <div class="header-ModalSearch trans-04 header-modal-SearchIcon-hide white-background">
+         <div class="header-SearchContainer">
+            <form role="search" method="get" class="header-SearchWrapper flex-w" action="/en-us/search">
+               <input class="" id="search" autocomplete="off" type="text" aria-label="Search" name="search" placeholder="Search for lessons, trainings, and articles"/>
+               <button class="flex-r-m trans-04" aria-label="search bar" title="search bar">
+                  <img src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/edu-header/search-icon.svg" class="header-SearchIcon-mobile" alt="Search" title="Search" aria-hidden="true"/>
+               </button>
+               <span class="form-clear d-none" tabindex="0" aria-label="clear search" role="button"></span>
+            </form>
+            <div class="flyout-close-container">
+               <button class="flyout-close" aria-label="close flyout" role="button">Close Search</button>
+            </div>
+         </div>
+      </div>
+      
+      <div class="react-modal sign_out-modal" id="modal-id" data-counter-value="3" style="display: none;">
+         <div class="modal-content-outer sign_out-modal_outer">
+            <div class="modal-content-container how-to-download-modal sign_out-focuable_modal" role="dialog" aria-labelledby="sign_out_session_text" aria-modal="true">
+               <button class="modal-icon-close sign_out-close" aria-label="Close modal" onclick="closeModal()" type="button">
+                  x
+                  <img src="/content/dam/education-edition/resources/images/edu-common/close-hexogon.svg" class="modal-close-hexagon sign_out_close_hexogon" alt="close modal"/>
+                  <img src="/content/dam/education-edition/resources/images/edu-common/cross.svg" width="14.31" height="14.31" class="modal-close-x sign_out_close_cross" alt="close modal"/>
+               </button>
+               <div class="how-to-download-modal-inner">
+                  <h2 class="heading4 how-to-download-modal-title green" id="sign_out_modal_title"></h2>
+                  <p class="how-to-download-modal-text sign_out-modal-text" role="timer" id="sign_out_timer" aria-live="polite" aria-atomic="true"></p>
+                  <p class="how-to-download-modal-text sign_out-modal-text2" id="sign_out_session_text" role="alert">
+                  </p>
+                  <div class="modal-footer">
+                     <button class="edu-button green" onclick="closeModal()" type="button" id="sign_out_cancel">
+                     </button>
+                     <button class="edu-button green" onclick="extendSession()" type="button" id="sign_out_extend">
+                     </button>
+                  </div>
+                  <img src="/content/dam/education-edition/resources/images/edu-common/Hexogon.svg" alt="loader" class="loading-hexagon lesson-editor-modal-loading-hexagon sign_out-modal_loader" viewbox="0 0 65.103 75.174"/>
+               </div>
+            </div>
+         </div>
+      </div>
+   
+</header></div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+<div class="container-base aem-GridColumn aem-GridColumn--default--12">
+<main class="site-body" id="main-content" data-cmp-is="parallax-container">
+     <div>
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="404-page aem-GridColumn aem-GridColumn--default--12">
+    <div class="cmp_404-page" data-cmp-is="error-new">
+        <div data-cmp-is="error-element-json" data-json="{&#34;imageIcon&#34;:&#34;/content/dam/education-edition/game-characters/Pig_And_Balloon.png&#34;,&#34;title&#34;:&#34;404 Not found&#34;,&#34;subTitle&#34;:&#34;This is probably not what you were looking for.&#34;,&#34;hyperLinkUrl&#34;:&#34;/en-us&#34;,&#34;hyperLinkText&#34;:&#34;Back to home&#34;,&#34;ctaUrlImage&#34;:&#34;/content/dam/education-edition/logos/Back%20arrow.svg&#34;,&#34;imageIconAlt&#34;:&#34;Arrow icon&#34;}"></div>
+    </div>
+
+
+    
+
+
+</div>
+<div class="section-container aem-GridColumn aem-GridColumn--default--12">
+<section data-aem-item="Section Container" class="section-container-wrapper ">
+    
+        
+            <div class="section-container">
+                
+                
+                    
+                    <div class="section-container-basic-container white-background " style="min-height: px;">
+                        <div class="grid-container">
+                            <div class="section-container-basic-container-inner" style="min-height: px;">
+                                
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    
+    
+</div>
+
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+        
+
+        
+    
+    
+</section>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/components/section-container/clientlibs/section-container.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<script src="/etc.clientlibs/minecraft-edu/components/section-container/clientlibs/section-container.min.1030520241204111445200050782201733378894829.js"></script>
+
+
+
+
+
+    
+</div>
+
+    
+</div>
+</div>
+</main></div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12"><div id="experiencefragment-3c06ddcdce" class="cmp-experiencefragment cmp-experiencefragment--footer-new">
+
+
+    
+    <div id="container-691b1f10be" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="edu-footer-redesign aem-GridColumn aem-GridColumn--default--12">
+   <div class="edu-global-footer aem-GridColumn aem-GridColumn--default--12">
+      <footer data-aem-item="Footer" id="footer">
+         <section class="top-newFooter">
+            <div class="container footer-container">
+               <div class="container-socialshare-brandinfo footer_desktop">
+                  <nav class="socialshare-content" aria-label="Follow us!">
+                     <h2 class="socialshare-content__header" aria-label="follow us!">Follow us!</h2>
+                     <div class="socialshare-content__icons">
+                        <div>
+                           <a href="https://www.linkedin.com/showcase/playcraftlearn/" target="_blank" aria-label="Follow us on LinkedIn" role="link" title="LinkedIn">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="linkedin-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://www.facebook.com/playcraftlearn" target="_blank" aria-label="Follow us on Facebook" role="link" title="Facebook">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="facebook-imageitem"></div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://twitter.com/PlayCraftLearn" target="_blank" aria-label="Follow us on X " role="link" title="X">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="twitter-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://www.youtube.com/channel/UC2XjBkW16jGLGSEF9vo4PDA" target="_blank" aria-label="Follow us on YouTube   " role="link" title="Youtube">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="youtube-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://www.pinterest.com/playcraftlearn/" target="_blank" aria-label="Follow us on Pinterest" role="link" title="Pintrest">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="pinterest-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </nav>
+                  <div class="brandinfo-icons">
+                     <div class="brandinfo-icons__logo">
+                        <div class="brandinfo-icons__mojang">
+                           
+                              <img src="/content/dam/education-edition/resources/images/edu-footer/MC-EDU_Footer-Image-0_Mojang-Logo.svg" aria-hidden="true" alt="Mojang logo"/>
+                           
+                           
+                        </div>
+                        <div class="brandinfo-icons__xbox">
+                           
+                           
+                              <img src="/content/dam/education-edition/resources/images/edu-footer/MC-EDU_Footer-Image-0_Xbox-Game-Studios-Logo.svg" alt="Xbox game studios"/>
+                           
+                        </div>
+                     </div>
+                     <div class="copyright-info">
+                        <p>© 2024 Mojang AB. TM Microsoft Corporation.</p>
+                     </div>
+                     <div class="copyright-info d-flex flex-column">
+                        <a href="https://www.minecraft.net/terms#terms-brand_guidelines" target="_self" aria-label="Mojang Brand and Asset Guidelines" role="link">
+                           Mojang Brand and Asset Guidelines
+                        </a>
+                        <div id="manageConsent">
+                           <a href="#" class="fs-14" onclick="manageConsent()" aria-label="Manage Consent">Manage Consent</a>
+                        </div>
+                        <a href="https://aka.ms/EducationUsageGuidelines" target="_self" aria-label="Minecraft Education Usage Guidelines" role="link">
+                           Minecraft Education Usage Guidelines
+                        </a>
+                        <a href="https://aka.ms/EsportsGuidelines" target="_self" aria-label="Minecraft Education Esports Guidelines" role="link">
+                           Minecraft Education Esports Guidelines
+                        </a>
+                     </div>
+                  </div>
+               </div>
+               <div class="container-navlists">
+                  <div class="container-navlists__one link-items desktopview-navlist">
+                     
+                        
+                           <nav class="resources-navlist navlist" aria-label="Resources for Minecraft Education ">
+                              <h2 class="container-navlists__header">
+                                 <a href="/resources" target="_self" role="link">
+                                 Resources</a>
+                              </h2>
+                              <ul>
+                                 <li><a href="/en-us/blog" aria-label="Blog Learn more about Minecraft Education blog" target="_blank">Blog</a></li>
+                              
+                                 <li><a href="/en-us/get-started/download" aria-label="Try a Demo for Minecraft Education" target="_blank">Try a Demo</a></li>
+                              
+                                 <li><a href="/en-us/resources/hour-code-2021" aria-label="Hour of Code 2021" target="_self">Hour of Code</a></li>
+                              
+                                 <li><a href="/en-us/resources/classroom-build-challenge" aria-label="Build challenge on Minecraft classroom" target="_blank">Build Challenges</a></li>
+                              
+                                 <li><a href="/en-us/resources/stem-esports-challenges" aria-label="Esports Learn more about Esports challenges" target="_blank">Esports</a></li>
+                              
+                                 <li><a href="https://shop.minecraft.net/" aria-label="Minecraft shop Shop on Minecraft Education" target="_blank">Minecraft Shop </a></li>
+                              
+                                 <li><a href="/en-us/newsletter-archive" aria-label="Newsletter Archive" target="_self">Newsletter Archive</a></li>
+                              
+                                 <li><a href="https://edusupport.minecraft.net/hc" aria-label="Support" target="_blank">Support</a></li>
+                              
+                                 <li><a href="/en-us/sitemap" aria-label="Site Map" target="_self">Site Map </a></li>
+                              </ul>
+                           </nav>
+                        
+                     
+                     
+                        
+                           <nav class="container-navlists__educators navlist" aria-label="Educators for Minecraft Education ">
+                              <h2 class="container-navlists__header">
+                                 <a href="/en-us/get-started/educators" target="_self" role="link">
+                                 Educators</a>
+                              </h2>
+                              <ul>
+                                 <li><a href="/en-us/resources/explore-lessons" aria-label="Lesson Library " target="_blank" role="link">Lesson Library </a></li>
+                              
+                                 <li><a href="/en-us/resources/get-trained" aria-label="Educator Training" target="_blank" role="link">Educator Training</a></li>
+                              
+                                 <li><a href="https://docs.microsoft.com/en-us/training/paths/minecraft-teacher-academy/" aria-label="How to Play" target="_blank" role="link">How to Play</a></li>
+                              
+                                 <li><a href="/en-us/connect" aria-label="Join the Community" target="_blank" role="link">Join the Community</a></li>
+                              
+                                 <li><a href="/en-us/discover/impact" aria-label="Research &amp; Impact " target="_blank" role="link">Research &amp; Impact </a></li>
+                              
+                                 <li><a href="https://education.minecraft.net/en-us/blog/classroom-management-tips-from-minecraft-mentors" aria-label="Classroom Management" target="_blank" role="link">Classroom Management</a></li>
+                              
+                                 <li><a href="https://docs.microsoft.com/training/modules/minecraft-intro-game-based-learning/" aria-label="Teacher Academy " target="_blank" role="link">Teacher Academy </a></li>
+                              
+                                 <li><a href="https://docs.microsoft.com/training/paths/minecraft-student-ambassador-program/" aria-label="Student Ambassadors" target="_blank" role="link">Student Ambassadors</a></li>
+                              </ul>
+                           </nav>
+                        
+                     
+                  </div>
+                  <div class="container-navlists__two desktopview-navlist">
+                     <div class="container-navlists__idadmin navlist">
+                        
+                           
+                              
+                                 <nav class="itadmin-navlist" aria-label="IT Admins on Minecraft Education ">
+                                    <h2 class="container-navlists__header">
+                                       <a href="/en-us/get-started/it-admins" target="_self" role="link">
+                                       IT Admins </a>
+                                    </h2>
+                                    <ul>
+                                       <li><a href="/en-us/licensing" aria-label="How to buy Learn more about how to buy Minecraft Education" target="_blank" role="link">How to Buy </a></li>
+                                    
+                                       <li><a href="/en-us/licensing" aria-label="Licensing Learn more about Minecraft Education Licensing" target="_blank" role="link">Licensing</a></li>
+                                    
+                                       <li><a href="/en-us/resources/get-trained" aria-label="Educator training on Minecraft Education" target="_blank" role="link">Educator Training</a></li>
+                                    </ul>
+                                 </nav>
+                              
+                           
+                              
+                           
+                        
+                        
+                           
+                              
+                           
+                              
+                               <nav class="parents-navlist" aria-label="Parents on Minecraft Education ">
+                                    <h2 class="container-navlists__header">
+                                       <a href="/en-us/get-started/parents" target="_self" role="link">
+                                       Parents</a>
+                                    </h2>
+                                    <ul>
+                                       <li><a href="/en-us/get-started" aria-label="Getting started for Minecraft Education" target="_blank" role="link">Getting Started </a></li>
+                                    
+                                       <li><a href="https://edusupport.minecraft.net/hc/articles/4415061129236-Purchasing-Minecraft-Education-Edition-for-Homeschooling-Family-use" aria-label="Homeschool Learn more about Purchasing Minecraft Education for Homeschooling &amp; Family use" target="_blank" role="link">Homeschools</a></li>
+                                    
+                                       <li><a href="/en-us/lessons/parent-guide" aria-label="Learn to play Minecraft Education using parent guide" target="_blank" role="link">Learn to Play </a></li>
+                                    </ul>
+                               </nav>
+                              
+                           
+                        
+                     </div>
+                     
+                        
+                           <nav class="container-navlists__download navlist" aria-label="Download Minecraft Education">
+                              <h2 class="container-navlists__header">
+                                 <a href="/en-us/get-started/download" target="_self" role="link">
+                                 Download</a>
+                              </h2>
+                              <ul>
+                                 <li><a href="/en-us/get-started/download" aria-label="Windows Download Minecraft for Windows" target="_blank" role="link">Windows </a></li>
+                              
+                                 <li><a href="/en-us/get-started/download" aria-label="ChromeOS Download Minecraft for ChromeOS" target="_blank" role="link">ChromeOS</a></li>
+                              
+                                 <li><a href="/en-us/get-started/download" aria-label="MacOS Download Minecraft for MacOS " target="_blank" role="link">MacOS </a></li>
+                              
+                                 <li><a href="/en-us/get-started/download" aria-label="iOS Download iOS" target="_blank" role="link">iOS</a></li>
+                              </ul>
+                           </nav>
+                        
+                     
+                  </div>
+               </div>
+               <div class="container-socialshare-brandinfo footer_mobile">
+                  <nav class="socialshare-content" aria-label="Follow us!">
+                     <h2 class="socialshare-content__header">Follow us!</h2>
+                     <div class="socialshare-content__icons">
+                        <div>
+                           <a href="https://www.linkedin.com/showcase/playcraftlearn/" target="_blank" aria-label="Follow us on LinkedIn" role="link" title="LinkedIn">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="linkedin-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://www.facebook.com/playcraftlearn" target="_blank" aria-label="Follow us on Facebook" role="link" title="Facebook">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="facebook-imageitem"></div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://twitter.com/PlayCraftLearn" target="_blank" aria-label="Follow us on X " role="link" title="X">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="twitter-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://www.youtube.com/channel/UC2XjBkW16jGLGSEF9vo4PDA" target="_blank" aria-label="Follow us on YouTube   " role="link" title="Youtube">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="youtube-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div>
+                           <a href="https://www.pinterest.com/playcraftlearn/" target="_blank" aria-label="Follow us on Pinterest" role="link" title="Pintrest">
+                              <div class="socialshare-content__polygon">
+                                 <div>
+                                    <div class="pinterest-imageitem">
+                                    </div>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </nav>
+                  <div class="brandinfo-icons">
+                     <div class="brandinfo-icons__logo">
+                        <div class="brandinfo-icons__mojang">
+                           
+                              <img src="/content/dam/education-edition/resources/images/edu-footer/MC-EDU_Footer-Image-0_Mojang-Logo.svg" aria-hidden="true" alt="Mojang logo"/>
+                           
+                           
+                        </div>
+                        <div class="brandinfo-icons__xbox">
+                           
+                           
+                              <img src="/content/dam/education-edition/resources/images/edu-footer/MC-EDU_Footer-Image-0_Xbox-Game-Studios-Logo.svg" alt="Xbox game studios"/>
+                           
+                        </div>
+                     </div>
+                     <div class="copyright-info">
+                        <p>© 2024 Mojang AB. TM Microsoft Corporation.</p>
+                     </div>
+                     <div class="copyright-info d-flex flex-column">
+                        <a href="https://www.minecraft.net/terms#terms-brand_guidelines" target="_self" aria-label="Mojang Brand and Asset Guidelines" role="link">
+                           Mojang Brand and Asset Guidelines
+                        </a>
+                        <div id="manageConsent_mobile">
+                           <a href="#" class="fs-14" onclick="manageConsent()" aria-label="Manage Consent">Manage Consent</a>
+                        </div>
+                        <a href="https://aka.ms/EducationUsageGuidelines" target="_self" aria-label="Minecraft Education Usage Guidelines" role="link">
+                           Minecraft Education Usage Guidelines
+                        </a>
+                        <a href="https://aka.ms/EsportsGuidelines" target="_self" aria-label="Minecraft Education Esports Guidelines" role="link">
+                           Minecraft Education Esports Guidelines
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section class="microsoft-footer">
+            <div class="container-fluid">
+               <div class="row">
+                  <div class="footer-select-language-container col-6 order-1 col-lg-2 order-lg-1">
+                     <div class="footer-select-language">
+                        <a id="lang-slider" class="lang-links__links--locale lang-links__links--align mb-0" role="button" href="#" aria-label="English (United States)" aria-expanded="false">
+                           <img class="globe-icon-footer" alt="globe"/>
+                           <span class="footer-select-language-link">English (United States)</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 10 7" fill="none" role="presentation">
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0.541992H2V2.54199H0V0.541992ZM4 4.54199H2V2.54199H4V4.54199ZM6 4.54199V6.54199H4V4.54199H6ZM8 2.54199H6V4.54199H8V2.54199ZM8 2.54199V0.541992H10V2.54199H8Z" fill="white"/>
+                          </svg>    
+                        </a>
+                     </div>
+                  </div>
+                  <div id="language-selector" class="lang-footer__language-selector col-12">
+                     <div class="row">
+                        <div class="col-12">
+                           <form class="lang-footer__language-selector-form" id="language-switcher">
+                              <ul class="lang-footer__language-selector-list columns-xs-2 columns-sm-3 columns-md-4 columns-lg-5 columns-xl-6 list-unstyled">
+                                 <li class="break-inside-avoid">
+                                    <a href="/en-us" class="lang-footer__language-selector-link hover-current" role="link">
+                                    English
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/da-dk" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Dansk
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/de-de" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Deutsch
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/es-es" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Español
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/es-mx" class="lang-footer__language-selector-link hover-current" role="link">
+                                    español de Mexico
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/fi-fi" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Suomi
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/fr-ca" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Français (Canada)
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/fr-fr" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Français
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/it-it" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Italiano
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/ja-jp" class="lang-footer__language-selector-link hover-current" role="link">
+                                    日本語
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/ko-kr" class="lang-footer__language-selector-link hover-current" role="link">
+                                    한국어
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/nb-no" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Norsk (Bokmål)
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/nl-nl" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Nederlands
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/pl-pl" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Polski
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/pt-br" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Português Brasileiro
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/pt-pt" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Português
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/ru-ru" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Русский
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/sv-se" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Svenska
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/tr-tr" class="lang-footer__language-selector-link hover-current" role="link">
+                                    Türkiye
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/zh-hans" class="lang-footer__language-selector-link hover-current" role="link">
+                                    简体中文
+                                    </a>
+                                 </li>
+                              
+                                 <li class="break-inside-avoid">
+                                    <a href="/zh-hant" class="lang-footer__language-selector-link hover-current" role="link">
+                                    繁體中文
+                                    </a>
+                                 </li>
+                              </ul>
+                           </form>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="footer-navigation-container col-12 order-3 col-lg-8 order-lg-2">
+                     <nav class="microsoft-footer-navigation" aria-label="Microsoft corporate links">
+                        <ul class="microsoft-footer-navigation-items">
+                           <li class="footer-optional-link d-none" data-country-code="US">
+                              <a data-aem-contentname="optional-country-link" target="_blank" class="caption" aria-label="California Consumer Privacy Act (CCPA) Opt-Out Icon" href="https://aka.ms/YourCaliforniaPrivacyChoices">
+                                 <img src="/content/dam/education-edition/icons/privacyoptions29x14.png" aria-hidden="true" alt="California Consumer Privacy Act (CCPA) Opt-Out Icon"/>
+                                 Your Privacy Choices
+                              </a>
+                           </li>
+                           <li class="footer-optional-link d-none" data-country-code="US">
+                              <a data-aem-contentname="Consumer Health Privacy" target="_blank" class="caption" aria-label="Consumer Health Privacy" href="https://go.microsoft.com/fwlink/?linkid=2259814">
+                                 Consumer Health Privacy
+                              </a>
+                           </li>
+                           
+                              <li>
+                                 <a data-aem-contentname="Contact Us " target="_blank" class="caption" aria-label="Contact support for Minecraft Education" href="https://aka.ms/MEEContactSupport">Contact Us </a>
+                              </li>
+                           
+                              <li>
+                                 <a data-aem-contentname="Privacy and Cookies" target="_blank" class="caption" aria-label="Privacy and Cookies Learn more about Privacy and Cookies" href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy and Cookies</a>
+                              </li>
+                           
+                              <li>
+                                 <a data-aem-contentname="Terms of use" target="_blank" class="caption" aria-label="Terms of use Get more information on Terms of use" href="https://aka.ms/meeterms">Terms of use</a>
+                              </li>
+                           
+                              <li>
+                                 <a data-aem-contentname="Trademarks" target="_blank" class="caption" aria-label="Trademarks Learn more about Trademarks" href="https://www.microsoft.com/trademarks">Trademarks</a>
+                              </li>
+                           
+                              <li>
+                                 <a data-aem-contentname="About our ads" target="_blank" class="caption" aria-label="About Minecraft Education ads" href="https://choice.microsoft.com">About our ads</a>
+                              </li>
+                           
+                              <li>
+                                 <a data-aem-contentname="© 2024 Microsoft" target="_blank" class="caption" aria-label="© 2024 Microsoft" href="https://microsoft.com">© 2024 Microsoft</a>
+                              </li>
+                           
+                        </ul>
+                     </nav>
+                  </div>
+                  <div class="microsoft-logo-container col-6 order-2 col-lg-2 order-lg-3">
+                     <div class="microsoft-logo">
+                        <a data-aem-contentname="Microsoft" target="_blank" title="Microsoft" href="https://www.microsoft.com" role="link" aria-label="Microsoft">
+                           <img class="icon-logo icon-microsoft mt-lg-0 mt-2" alt="Microsoft"/>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </footer>
+   </div>
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="back-to-top aem-GridColumn aem-GridColumn--default--12"><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.0.min.js" integrity="sha512-Pa4Jto+LuCGBHy2/POQEbTh0reuoiEXQWXGn8S7aRlhcwpVkO8+4uoZVSOqUjdCsE+77oygfu2Tl+7qGHGIWsw==" crossorigin="anonymous"></script>
+<a id="back-button-eduBtn" class="back-button-eduBtn d-none back-button-btnDisplay" href="#" title="Back to top">
+    <div class="back-button-arrowImg">
+        <img src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common/resources/images/back-to-top/back_button_arrow.svg" alt="Back to top"/>
+    </div>
+</a>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/minecraft-edu/components/back-to-top/clientlibs.min.1030520241204111445200050782201733378894829.css" type="text/css">
+<script src="/etc.clientlibs/minecraft-edu/components/back-to-top/clientlibs.min.1030520241204111445200050782201733378894829.js"></script>
+
+
+</div>
+
+    
+</div>
+</div>
+
+            
+    
+    
+    
+    
+    
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-base.min.1030520241204111445200050782201733378894829.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-dependencies.min.1030520241204111445200050782201733378894829.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-common.min.1030520241204111445200050782201733378894829.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/components/edu-global/edu-header/clientlibs.min.1030520241204111445200050782201733378894829.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-header.min.1030520241204111445200050782201733378894829.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-footer-redesign.min.1030520241204111445200050782201733378894829.js"></script>
+<script src="/etc.clientlibs/minecraft-edu/clientlibs/clientlib-site.min.1030520241204111445200050782201733378894829.js"></script>
+
+
+
+    
+    
+
+
+    
+
+    
+
+    
+    
+    
+
+            
+
+        
+    </body>
+</html>

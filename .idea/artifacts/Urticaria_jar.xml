@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Urticaria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Urticaria_jar</output-path>
+    <root id="archive" name="Urticaria.jar">
+      <element id="module-output" name="Urticaria" />
+    </root>
+  </artifact>
+</component>
