@@ -1,0 +1,19 @@
+# 项目排除路径
+/libs/
+/out/
+/run/
+/.idea/
+saves
+Apotheosis
+usercache.json
+options.txt
+optionsof.txt
+logs
+resourcepacks
+/ViaMCP/ViaBackwards
+/ViaMCP/ViaRewind
+/ViaMCP/ViaVersion
+
+
+ViaMCP/ViaRewind/config.yml
+ViaMCP/ViaVersion/viaversion.yml
